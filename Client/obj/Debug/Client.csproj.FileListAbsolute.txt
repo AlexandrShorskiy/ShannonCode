@@ -1,0 +1,13 @@
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\IP_client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\IP_client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\IP_client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\IP_client\Client\bin\Debug\SimpleTCP.dll
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\IP_client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\IP_client\Client\bin\Debug\SnASh.exe.config
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\IP_client\Client\bin\Debug\SnASh.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\IP_client\Client\bin\Debug\SnASh.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\IP_client\Client\obj\Debug\SnASh.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\IP_client\Client\obj\Debug\SnASh.pdb
+F:\Семестр 3\ТиК\Labwork3\Сoder_Decoder\Client\bin\Debug\SnASh.exe.config
+F:\Семестр 3\ТиК\Labwork3\Сoder_Decoder\Client\obj\Debug\SnASh.exe
+F:\Семестр 3\ТиК\Labwork3\Сoder_Decoder\Client\obj\Debug\SnASh.pdb
